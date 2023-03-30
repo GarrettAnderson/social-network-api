@@ -16,7 +16,7 @@ Need to download the source files from the github repository onto local.
 
 ## Usage
 
-To view this application on Github, click [here](https://github.com/GarrettAnderson/tech-blog).
+To view this application on Github, click [here](https://github.com/GarrettAnderson/social-network-api).
 
 ![](public/assets/images/screenshot.png)
 
