@@ -18,7 +18,7 @@ Need to download the source files from the github repository onto local.
 
 To view this application on Github, click [here](https://github.com/GarrettAnderson/social-network-api).
 
-![](public/assets/images/screenshot.png)
+<img src="https://drive.google.com/file/d/1LbLK8E7YBI25PXEED6tcyrUNujKb8UAW/view"/>
 
 ## Credits
 
